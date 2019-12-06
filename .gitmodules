@@ -2,3 +2,8 @@
 	path = felipecarocadimabe/invernada-test
 	url = git@github.com:felipecarocadimabe/invernada-test.git
 	branch = account-payment-editable
+
+[submodule "leonardodimabe/invernada-order-export"]
+	path = leonardodimabe/invernada-order-export
+	url = git@github.com:leonardodimabe/invernada-order-export.git
+	branch = order_export_qa
